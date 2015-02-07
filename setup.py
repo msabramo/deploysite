@@ -13,7 +13,7 @@ setup(
     license=PACKAGE.__license__,
     author=PACKAGE.__author__,
     author_email='mardix@github.com',
-    description=PACKAGE.__doc__,
+    description="Deploy sites and run applications in virtualenvs",
     long_description=PACKAGE.__doc__,
     url='http://github.com/mardix/deploysite/',
     download_url='http://github.com/mardix/deploysite/tarball/master',
